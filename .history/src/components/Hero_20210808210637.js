@@ -138,7 +138,7 @@ const Hero = () => {
             },
           },
           retina_detect: true,
-          fpsLimit: 30,
+          fpsLimit: 500,
         }}
       />
       <div>
