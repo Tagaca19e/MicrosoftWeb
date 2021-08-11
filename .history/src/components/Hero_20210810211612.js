@@ -1,7 +1,8 @@
 import React, { useEffect, useRef, lazy } from "react";
 import "./Hero.css";
+import "./index.css";
+const Particles = lazy(() => import("react-tsparticles"));
 
-import Particles from "react-tsparticles";
 import Typewriter from "typewriter-effect";
 import Header from "./Header";
 

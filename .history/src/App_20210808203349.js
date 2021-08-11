@@ -31,11 +31,10 @@ function App() {
           innerScale={0.7}
           outerScale={5}
         />
-        <div className="inner">
-          <Hero />
-        </div>
 
-        <About className="mx-auto" />
+        <Hero />
+
+        <About />
       </div>
       <div className="max-w-screen-xl mx-auto">
         <Skill />

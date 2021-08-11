@@ -10,7 +10,7 @@ function About() {
     <section className="about_section eidmone" id="aboutSection" name="about">
       <VisibilitySensor>
         <Fade bottom cascade>
-          <div className="center">
+          <div>
             <div className="container">
               <div className="device">
                 <div className="frame">

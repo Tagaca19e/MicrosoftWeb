@@ -17,8 +17,8 @@ body {
   text-rendering: optimizelegibility;
 }
 .centerhero {
-}
-.inner {
+  width: 50%;
+  margin: 0 auto;
 }
 
 .app {

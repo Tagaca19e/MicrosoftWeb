@@ -17,6 +17,9 @@ body {
   text-rendering: optimizelegibility;
 }
 .centerhero {
+  width: 100%;
+  display: flex;
+  align-items: center;
 }
 .inner {
 }

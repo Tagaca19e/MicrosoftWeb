@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, lazy } from "react";
+import React, { useEffect, useRef } from "react";
 import "./Hero.css";
 
 import Particles from "react-tsparticles";

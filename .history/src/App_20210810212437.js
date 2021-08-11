@@ -22,7 +22,7 @@ function App() {
         </div>
       }
     >
-      <div className="App  my-10 mx-auto max-w-screen-lg bg-black">
+      <div className="App  my-10 mx-auto bg-black">
         <AnimatedCursor
           innerSize={15}
           outerSize={20}
@@ -31,11 +31,10 @@ function App() {
           innerScale={0.7}
           outerScale={5}
         />
-        <div className="inner">
-          <Hero />
-        </div>
 
-        <About className="mx-auto" />
+        <Hero />
+
+        <About />
       </div>
       <div className="max-w-screen-xl mx-auto">
         <Skill />
