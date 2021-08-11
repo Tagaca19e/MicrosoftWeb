@@ -19,7 +19,7 @@ const projects = [
   },
   {
     title: "Type-it | typing game ",
-    image: "./images/Typeit",
+    image: "./images/recipeApp-mockup",
     description:
       "A simple and fun game to improve your typing skills, made mainly with Javascript and Css that covers the concepts of creating timers, calling APIs, and hooking up DOM events.",
     tools: ["Javascript", "API"],

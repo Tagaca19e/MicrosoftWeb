@@ -1,7 +1,7 @@
 const projects = [
   {
     title: "iSpent | budget tracker  ",
-    image: "./images/iSpent",
+    image: "./images/rn-mockup",
     description:
       "A voice-activated Expense Tracker App that allows you to track income and expenses across a range of categories, developed to showcase the use of React.JS, Material UI, and the use of libraries.",
     tools: ["React", "Redux", "MongoDB", "JWT", "Express"],
@@ -19,7 +19,7 @@ const projects = [
   },
   {
     title: "Type-it | typing game ",
-    image: "./images/Typeit",
+    image: "./images/recipeApp-mockup",
     description:
       "A simple and fun game to improve your typing skills, made mainly with Javascript and Css that covers the concepts of creating timers, calling APIs, and hooking up DOM events.",
     tools: ["Javascript", "API"],
