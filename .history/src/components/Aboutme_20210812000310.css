@@ -224,7 +224,7 @@
 
 @media all and (max-width: 360px) {
   .screen {
-    height: 60vh;
+    height: 500px;
     width: 300px;
   }
 }

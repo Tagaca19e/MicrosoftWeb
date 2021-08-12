@@ -13,7 +13,10 @@ const Contact = () => {
         </p>
       </header>
 
-      <div className="md:mx-6 flex flex-col flex-wrap md:flex-row justify-between">
+      <div
+        className="md:mx-6 flex flex-col flex-wrap md:flex-row justify-between"
+        id="call"
+      >
         <div className="md:w-6/12 md:px-0 p-5 my-5">
           <div>
             <p className="font-bold">Eidmone Tagaca</p>
@@ -107,7 +110,6 @@ const Contact = () => {
             <button
               type="submit"
               className="border border-gray-500 p-2 rounded-lg w-auto mr-auto shadow-md"
-              id="call"
             >
               Send Message
             </button>

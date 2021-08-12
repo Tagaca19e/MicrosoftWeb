@@ -197,7 +197,7 @@
     padding: 26px 2px 40px;
   }
   .screen {
-    height: 60vh;
+    height: 100vh;
     width: 340px;
   }
   .screen:before {
@@ -212,7 +212,6 @@
   }
   .about_section .container .device .frame .window-content .line {
     font-size: 1rem;
-    height: auto;
   }
   .about_section .container .device .frame .window-content span {
     font-size: 1rem;

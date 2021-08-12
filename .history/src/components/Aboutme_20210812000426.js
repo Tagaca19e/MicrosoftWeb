@@ -4,19 +4,18 @@ import Typist from "react-typist";
 import "react-typist/dist/Typist.css";
 import Fade from "react-reveal/Fade";
 import "./Aboutme.css";
-
 function About() {
   return (
     <section className="about_section eidmone" id="aboutSection" name="about">
       <VisibilitySensor>
         <Fade bottom cascade>
-          <div className="center">
+          <div>
             <div className="container">
               <div className="device">
                 <div className="frame">
                   <div className="screen">
                     <div className="window-content">
-                      <p>
+                      <h>
                         <Typist
                           cursor={{
                             show: true,
@@ -43,20 +42,13 @@ function About() {
                           </span>{" "}
                           <p className="intro" avgTypingDelay={40}>
                             {" "}
-                            I am a full-time second-year student studying
-                            Computer Science at California State University,
-                            Bakersfield. My interests include software
-                            engineering, web development, and solving data
-                            structure problems. I am experienced in both
-                            frontend and backend programming. I am driven and
-                            ambitious, and I want to work in a field that will
-                            challenge me while also allowing me to put my
-                            leadership skills to good use. I employ design
-                            strategies like the MVC architecture and programming
-                            languages like JavaScript and C++. I also use REST
-                            APIs in conjunction with frameworks like React. The
-                            most important objective I have for myself is to
-                            keep learning new things.{" "}
+                            Hello there! I am currently a sophomore at CSUB,
+                            although a second year student, I believe that I
+                            have developed extensive skills in front-end
+                            development and backend development. I am very
+                            proficient in using JavaScript, ReactJS, ExpressJS,
+                            HTML, and CSS. I always try to find time to get
+                            better every day in developing on my free time.{" "}
                           </p>
                           <span style={{ color: "#ffff19" }}>
                             {" "}
@@ -65,7 +57,7 @@ function About() {
                             <span style={{ color: "#ffffff" }}> $</span>{" "}
                           </span>
                         </Typist>
-                      </p>
+                      </h>
                       <j></j>
                     </div>
                   </div>
@@ -78,5 +70,4 @@ function About() {
     </section>
   );
 }
-
 export default About;

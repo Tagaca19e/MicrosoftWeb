@@ -107,7 +107,6 @@ const Contact = () => {
             <button
               type="submit"
               className="border border-gray-500 p-2 rounded-lg w-auto mr-auto shadow-md"
-              id="call"
             >
               Send Message
             </button>

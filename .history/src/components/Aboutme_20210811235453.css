@@ -4,9 +4,9 @@
 .about_section .container {
   text-align: center;
 }
-.eidmone {
+/* .eidmone {
   margin-top: 5rem;
-}
+} */
 .intro {
   margin-top: 2rem;
   margin-bottom: 2rem;
@@ -211,14 +211,13 @@
     left: 24%;
   }
   .about_section .container .device .frame .window-content .line {
-    font-size: 1rem;
-    height: auto;
+    font-size: 14px;
   }
   .about_section .container .device .frame .window-content span {
-    font-size: 1rem;
+    font-size: 14px;
   }
   .window-content {
-    padding-top: 1rem;
+    padding-top: 14px;
   }
 }
 
