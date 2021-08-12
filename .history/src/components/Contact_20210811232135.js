@@ -8,7 +8,7 @@ const Contact = () => {
     <section>
       <header className="px-5 text-2xl font-bold pt-10">
         <h4>Contact Me</h4>
-        <p className=" font-thin">
+        <p className="text-base font-thin">
           Got any questions? Feel fee to contact me or ask me!
         </p>
       </header>

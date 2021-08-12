@@ -99,9 +99,9 @@ const Project = () => {
         >
           <span>See more on Github</span>
         </a> */}
-        <header className="header-div">
+        {/* <header className="header-div">
           <p className="work-experience">Work Experience</p>
-        </header>
+        </header> */}
       </div>
     </>
   );

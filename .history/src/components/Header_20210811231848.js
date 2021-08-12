@@ -6,22 +6,6 @@ const Header = () => {
       <ul className="flex flex-row space-x-4 md:space-x-10 md:text-xl justify-center md:justify-end font-thin">
         <li>
           <a
-            href="#aboutSection"
-            className="py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg"
-          >
-            About
-          </a>
-        </li>
-        <li>
-          <a
-            href="#experience"
-            className="py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg"
-          >
-            Experience
-          </a>
-        </li>
-        <li>
-          <a
             href="#projects"
             className="py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg"
           >
@@ -34,6 +18,22 @@ const Header = () => {
             className="py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg"
           >
             Contact
+          </a>
+        </li>
+        <li>
+          <a
+            href="#contact"
+            className="py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg"
+          >
+            About Me
+          </a>
+        </li>
+        <li>
+          <a
+            href="#contact"
+            className="py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg"
+          >
+            Experience
           </a>
         </li>
       </ul>

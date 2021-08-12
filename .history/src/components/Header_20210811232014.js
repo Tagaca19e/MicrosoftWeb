@@ -14,14 +14,6 @@ const Header = () => {
         </li>
         <li>
           <a
-            href="#experience"
-            className="py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg"
-          >
-            Experience
-          </a>
-        </li>
-        <li>
-          <a
             href="#projects"
             className="py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg"
           >
@@ -34,6 +26,14 @@ const Header = () => {
             className="py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg"
           >
             Contact
+          </a>
+        </li>
+        <li>
+          <a
+            href="#experience"
+            className="py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg"
+          >
+            Experience
           </a>
         </li>
       </ul>

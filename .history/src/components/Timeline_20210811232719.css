@@ -4,7 +4,6 @@
   -webkit-transform: scale(0.8, 0.8); /* Safari and Chrome */
   -o-transform: scale(0.8, 0.8); /* Opera */
   -moz-transform: scale(0.8, 0.8); /* Firefox */
-  margin-top: 0;
 }
 .header-div {
   text-align: center;
@@ -13,9 +12,8 @@
 .work-experience {
   font-size: 2.5rem;
   font-weight: bold;
-  margin-top: 13rem;
   border-radius: 10px;
-  padding: 3.8rem;
+  padding: 5rem;
   background-color: #ffe53b;
   background-image: -webkit-linear-gradient(147deg, #ffe53b 0%, #ff7825 74%);
   background-image: -moz-linear-gradient(147deg, #ffe53b 0%, #ff7825 74%);
@@ -26,15 +24,12 @@
   font-size: 2.5rem;
   font-weight: bold;
   border-radius: 10px;
-  /* color: black; */
-  padding: 3.8rem;
-  margin-bottom: 5rem;
-  margin-top: 1rem;
-  background-color: #85ffbd;
-  background-image: -webkit-linear-gradient(45deg, #85ffbd 0%, #7fbb4b 100%);
-  background-image: -moz-linear-gradient(45deg, #85ffbd 0%, #7fbb4b 100%);
-  background-image: -o-linear-gradient(45deg, #85ffbd 0%, #7fbb4b 100%);
-  background-image: linear-gradient(45deg, #85ffbd 0%, #7fbb4b 100%);
+  padding: 3rem;
+  background-color: #ffe53b;
+  background-image: -webkit-linear-gradient(147deg, #ffe53b 0%, #ff7825 74%);
+  background-image: -moz-linear-gradient(147deg, #ffe53b 0%, #ff7825 74%);
+  background-image: -o-linear-gradient(147deg, #ffe53b 0%, #ff7825 74%);
+  background-image: linear-gradient(147deg, #ffe53b 0%, #ff7825 74%);
 }
 p1 {
   font-size: 1.3rem;

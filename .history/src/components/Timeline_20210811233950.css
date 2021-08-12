@@ -13,7 +13,7 @@
 .work-experience {
   font-size: 2.5rem;
   font-weight: bold;
-  margin-top: 13rem;
+  margin-top: 12rem;
   border-radius: 10px;
   padding: 3.8rem;
   background-color: #ffe53b;
@@ -94,7 +94,7 @@ p1 {
   height: 24px;
   position: relative;
   left: 50%;
-  top: 50%;
+
   margin-left: -12px;
   margin-top: -12px;
 }
