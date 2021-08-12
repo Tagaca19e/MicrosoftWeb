@@ -8,7 +8,7 @@ import "./Timeline.css";
 const Timeline = () => {
   return (
     <VerticalTimeline className="timeline">
-      <header className="header-div">
+      <header className="">
         <p className="work-experience">Work Experience</p>
       </header>
       <VerticalTimelineElement
@@ -17,12 +17,12 @@ const Timeline = () => {
         iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
         // icon={<WorkIcon />}
       >
-        <h2 className="vertical-timeline-element-title">
+        <h3 className="vertical-timeline-element-title">
           Video Specialist - Cal State University, Bakersfield
-        </h2>
-        <h2 className="vertical-timeline-element-subtitle">
+        </h3>
+        <h3 className="vertical-timeline-element-subtitle">
           Nov 2020 - Current
-        </h2>
+        </h3>
         <p>
           Managed to help out students with their frequently asked problems by
           making infographic videos, these included how to pay for tuition fees
@@ -38,12 +38,12 @@ const Timeline = () => {
       // iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
       // icon={<WorkIcon />}
       >
-        <h2 className="vertical-timeline-element-title">
+        <h3 className="vertical-timeline-element-title">
           Software Developer Program - IBM
-        </h2>
-        <h2 className="vertical-timeline-element-subtitle">
+        </h3>
+        <h3 className="vertical-timeline-element-subtitle">
           Jun 2021 - July 2021
-        </h2>
+        </h3>
         <p>
           Built Full stack applications using React.js, Express.js, and the MVC
           architecture. Accomplished 100% on the labs by planning, working, and
@@ -58,12 +58,12 @@ const Timeline = () => {
         iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
         // icon={<WorkIcon />}
       >
-        <h2 className="vertical-timeline-element-title">
+        <h3 className="vertical-timeline-element-title">
           Microsoft Learn Student Ambassador - Microsoft
-        </h2>
-        <h2 className="vertical-timeline-element-subtitle">
+        </h3>
+        <h3 className="vertical-timeline-element-subtitle">
           Jan 2021 - Current
-        </h2>
+        </h3>
         <p>
           Helped out other colleagues on how to utilize rest APIs appropriately,
           that would help them grasp how APIs are used for data in full stack

@@ -60,13 +60,12 @@ h3 {
 }
 p {
   font-size: 1.22rem;
-  line-height: 2rem;
 }
 
 h2 {
-  font-size: 1.7rem !important;
+  font-size: 1.6rem !important;
   font-weight: bold;
-
+  padding: 0.5rem;
   font-weight: bold;
   background-color: #fad961;
   background-image: -webkit-linear-gradient(90deg, #fad961 0%, #f7c71c 100%);

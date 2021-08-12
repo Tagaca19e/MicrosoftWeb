@@ -5,20 +5,6 @@
   -o-transform: scale(0.8, 0.8); /* Opera */
   -moz-transform: scale(0.8, 0.8); /* Firefox */
 }
-.header-div {
-  text-align: center;
-}
-.work-experience {
-  font-size: 2.5rem;
-  font-weight: bold;
-  border-radius: 10px;
-  padding: 5rem;
-  background-color: #ffe53b;
-  background-image: -webkit-linear-gradient(147deg, #ffe53b 0%, #ff7825 74%);
-  background-image: -moz-linear-gradient(147deg, #ffe53b 0%, #ff7825 74%);
-  background-image: -o-linear-gradient(147deg, #ffe53b 0%, #ff7825 74%);
-  background-image: linear-gradient(147deg, #ffe53b 0%, #ff7825 74%);
-}
 
 .header {
   font-size: 15px;
@@ -347,7 +333,6 @@
   -webkit-animation: cd-bounce-2 0.6s;
   -moz-animation: cd-bounce-2 0.6s;
   animation: cd-bounce-2 0.6s;
-  height: auto;
 }
 
 @media only screen and (min-width: 1170px) {

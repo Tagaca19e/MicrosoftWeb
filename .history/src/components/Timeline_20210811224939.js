@@ -23,7 +23,7 @@ const Timeline = () => {
         <h2 className="vertical-timeline-element-subtitle">
           Nov 2020 - Current
         </h2>
-        <p>
+        <p className="description">
           Managed to help out students with their frequently asked problems by
           making infographic videos, these included how to pay for tuition fees
           and how to navigate the school . Promoted independent learning by
