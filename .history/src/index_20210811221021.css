@@ -11,7 +11,7 @@ body {
   background-color: rgb(18, 18, 18);
   color: rgba(255, 255, 255, 0.87);
   font-size: 1rem;
-  font-family: Calibbri, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   line-height: 1.5rem;
   font-weight: 400;
   text-rendering: optimizelegibility;
@@ -48,11 +48,11 @@ h1 {
 h3 {
   font-size: 1.4rem !important;
   font-weight: bold;
-  background-color: #8bc6ec;
-  background-image: -webkit-linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
-  background-image: -moz-linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
-  background-image: -o-linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
-  background-image: linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
+  background-color: #fbab7e;
+  background-image: -webkit-linear-gradient(62deg, #fbab7e 0%, #f7ce68 100%);
+  background-image: -moz-linear-gradient(62deg, #fbab7e 0%, #f7ce68 100%);
+  background-image: -o-linear-gradient(62deg, #fbab7e 0%, #f7ce68 100%);
+  background-image: linear-gradient(62deg, #fbab7e 0%, #f7ce68 100%);
 
   background-clip: border-box;
   -webkit-background-clip: text;

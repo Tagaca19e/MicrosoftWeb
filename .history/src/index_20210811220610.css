@@ -11,10 +11,14 @@ body {
   background-color: rgb(18, 18, 18);
   color: rgba(255, 255, 255, 0.87);
   font-size: 1rem;
-  font-family: Calibbri, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   line-height: 1.5rem;
   font-weight: 400;
   text-rendering: optimizelegibility;
+}
+.centerhero {
+}
+.inner {
 }
 
 .app {
@@ -48,11 +52,13 @@ h1 {
 h3 {
   font-size: 1.4rem !important;
   font-weight: bold;
-  background-color: #8bc6ec;
-  background-image: -webkit-linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
-  background-image: -moz-linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
-  background-image: -o-linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
-  background-image: linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
+  background-color: #8e9ffa;
+  background-image: linear-gradient(
+    43deg,
+    #fea128 0%,
+    #1fecab 46%,
+    #2861f6 100%
+  );
 
   background-clip: border-box;
   -webkit-background-clip: text;
@@ -61,30 +67,12 @@ h3 {
 
 h2 {
   font-size: 1.4rem !important;
-  background-color: #4158d0;
-  background-image: -webkit-linear-gradient(
-    43deg,
-    #4158d0 0%,
-    #c850c0 46%,
-    #ffcc70 100%
-  );
-  background-image: -moz-linear-gradient(
-    43deg,
-    #4158d0 0%,
-    #c850c0 46%,
-    #ffcc70 100%
-  );
-  background-image: -o-linear-gradient(
-    43deg,
-    #4158d0 0%,
-    #c850c0 46%,
-    #ffcc70 100%
-  );
-  background-image: linear-gradient(
-    43deg,
-    #4158d0 0%,
-    #c850c0 46%,
-    #ffcc70 100%
+background-color: #4158D0;
+background-image: -webkit-linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+background-image: -moz-linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+background-image: -o-linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
   );
 
   background-clip: border-box;
