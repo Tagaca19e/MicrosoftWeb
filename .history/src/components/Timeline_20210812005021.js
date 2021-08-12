@@ -8,10 +8,13 @@ import "./Timeline.css";
 const Timeline = () => {
   return (
     <VerticalTimeline className="timeline" id="experience">
-      <header className="header-div">
-        <p className="work-experience">Work Experience</p>
-      </header>
-
+      <VerticalTimeline className="vertical-timeline-element--work">
+        {/* <header className="header-div"> */}
+        <p className="work-experience vertical-timeline-element-title">
+          Work Experience
+        </p>
+        {/* </header> */}
+      </VerticalTimeline>
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
         // date="2010 - 2011"

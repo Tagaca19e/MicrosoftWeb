@@ -11,7 +11,6 @@ const Timeline = () => {
       <header className="header-div">
         <p className="work-experience">Work Experience</p>
       </header>
-
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
         // date="2010 - 2011"

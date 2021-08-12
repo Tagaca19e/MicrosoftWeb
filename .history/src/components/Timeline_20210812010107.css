@@ -10,30 +10,17 @@
   text-align: center;
 }
 #projects > .header-div > .projects {
-  animation: rotate5 3200ms ease-in infinite both;
+  animation: rotate10 3200ms ease-in infinite both;
 }
-@keyframes rotate5 {
+@keyframes rotate10 {
   0%,
   100% {
-    transform: rotate(-5deg);
+    transform: rotate(-10deg);
   }
 
   50% {
-    transform: rotate(5deg);
+    transform: rotate(10deg);
   }
-}
-@keyframes floatY {
-  0%,
-  100% {
-    transform: translateY(0);
-  }
-
-  50% {
-    transform: translateY(-20px);
-  }
-}
-.container > .device > .frame {
-  animation: floatY 3300ms ease-in-out infinite both;
 }
 .work-experience {
   font-size: 2.5rem;
