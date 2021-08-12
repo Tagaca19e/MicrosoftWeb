@@ -1,7 +1,7 @@
 const projects = [
   {
     title: "iSpent | budget tracker  ",
-    image: "./images/ibudget",
+    image: "./images/budget",
     description:
       "A voice-activated Expense Tracker App that allows you to track income and expenses across a range of categories, developed to showcase the use of React.JS, Material UI, and the use of libraries.",
     tools: ["#React", "#MaterialUI", "#SCSS"],
@@ -10,7 +10,7 @@ const projects = [
   },
   {
     title: " GitSearch | search github users",
-    image: "./images/gitsearch",
+    image: "./images/tmdb-mockup",
     description:
       "A React application that searches Github usernames and displays their followers, following, and the number of their repositories using the Github API to fetch data.",
     tools: ["#React", "#API", "#FusionCharts"],
@@ -19,7 +19,7 @@ const projects = [
   },
   {
     title: "Type-it | typing game ",
-    image: "./images/type",
+    image: "./images/Typeit",
     description:
       "A simple and fun game to improve your typing skills, made mainly with Javascript and Css that covers the concepts of creating timers, calling APIs, and hooking up DOM events.",
     tools: ["Javascript", "#MaterialUI", "#RestAPIs"],
