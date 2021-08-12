@@ -22,7 +22,8 @@
 }
 p1 {
   font-size: 1.3rem;
-  line-height: 2.2rem;
+  line-height: 2rem;
+  margin-top: 3rem;
 }
 .header {
   font-size: 15px;

@@ -9,7 +9,7 @@ const Timeline = () => {
   return (
     <VerticalTimeline className="timeline">
       <header className="header-div">
-        <p className="work-experience">Work Experience</p>
+        <p className="work-experience">Work Experience💻</p>
       </header>
       <VerticalTimelineElement
         className="vertical-timeline-element--work"

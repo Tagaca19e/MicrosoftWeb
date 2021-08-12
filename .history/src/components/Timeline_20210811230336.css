@@ -8,7 +8,9 @@
 .header-div {
   text-align: center;
 }
-
+p {
+  line-height: 2rem;
+}
 .work-experience {
   font-size: 2.5rem;
   font-weight: bold;
@@ -20,10 +22,7 @@
   background-image: -o-linear-gradient(147deg, #ffe53b 0%, #ff7825 74%);
   background-image: linear-gradient(147deg, #ffe53b 0%, #ff7825 74%);
 }
-p1 {
-  font-size: 1.3rem;
-  line-height: 2.2rem;
-}
+
 .header {
   font-size: 15px;
 }
@@ -177,7 +176,6 @@ p1 {
 .vertical-timeline--one-column-right .vertical-timeline-element-content {
   margin-right: 60px;
   margin-left: unset;
-  line-height: 2rem;
 }
 
 .vertical-timeline-element--no-children .vertical-timeline-element-content {
