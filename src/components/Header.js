@@ -30,7 +30,7 @@ const Header = () => {
         </li>
         <li>
           <a
-            href="#contact"
+            href="#call"
             className="py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg"
           >
             Contact
