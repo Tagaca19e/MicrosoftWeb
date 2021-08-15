@@ -80,18 +80,12 @@ const Timeline = () => {
           Jan 2021 - Current
         </h2>
         <p1>
-          <ul>
-            <li>
-              Organized workshops on building applications using ReactJS ,
-              ExpressJS , MongoDB , and NodeJS for students to learn full-stack
-              development.
-            </li>
-            <li>
-              Held an event with 40+ attendees on how to use APIs ,
-              allowingstudents to fully grasp how APIs are utilized for
-              back-enddevelopment.
-            </li>
-          </ul>
+          Helped out other colleagues on how to utilize rest APIs appropriately,
+          that would help them grasp how APIs are used for data in full stack
+          applications. Organized a workshop for building a MERN stack
+          application that enabled students to learn frontend and backend
+          development with React.Js, Express.Js, MongoDB, and Node.Js. Presented
+          a slideshow on how to fully understand how to use the GitHub.
         </p1>
       </VerticalTimelineElement>
       {/* <VerticalTimelineElement

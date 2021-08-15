@@ -53,18 +53,10 @@ const Timeline = () => {
           Jun 2021 - July 2021
         </h2>
         <p1>
-          <ul>
-            <li>
-              Built full-stack applications using MongoDB , ExpressJs , ReactJS
-              ,and NodeJS , which helped smooth the development process andbuild
-              robust and scalable web applications.
-            </li>
-            <li>
-              Optimized front-end applications by using libraries such as
-              Material UI , Bootstrap , and React Router for simple and
-              quickdevelopment.
-            </li>
-          </ul>
+          Optimized applications using ExpressJS, which helped in handling
+          multiple different HTTP requests at a specific URL. Implemented REST
+          APIs for a user search application, allowing users to look up people
+          and cities within a specific area.
         </p1>
       </VerticalTimelineElement>
       <VerticalTimelineElement
@@ -80,18 +72,12 @@ const Timeline = () => {
           Jan 2021 - Current
         </h2>
         <p1>
-          <ul>
-            <li>
-              Organized workshops on building applications using ReactJS ,
-              ExpressJS , MongoDB , and NodeJS for students to learn full-stack
-              development.
-            </li>
-            <li>
-              Held an event with 40+ attendees on how to use APIs ,
-              allowingstudents to fully grasp how APIs are utilized for
-              back-enddevelopment.
-            </li>
-          </ul>
+          Helped out other colleagues on how to utilize rest APIs appropriately,
+          that would help them grasp how APIs are used for data in full stack
+          applications. Organized a workshop for building a MERN stack
+          application that enabled students to learn frontend and backend
+          development with React.Js, Express.Js, MongoDB, and Node.Js. Presented
+          a slideshow on how to fully understand how to use the GitHub.
         </p1>
       </VerticalTimelineElement>
       {/* <VerticalTimelineElement
