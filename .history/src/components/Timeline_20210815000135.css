@@ -11,7 +11,6 @@
 }
 ul {
   list-style-type: disc;
-  padding-left: 2rem;
 }
 #projects > .header-div > .projects {
   animation: rotate5 3200ms ease-in infinite both;

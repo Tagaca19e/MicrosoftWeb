@@ -25,11 +25,9 @@ const Timeline = () => {
           Aug 2021 - Current
         </h2>
         <p1>
-          <ul>
-            <li>Example 1</li>
-            <li>Example 2</li>
-            <li>Example 3</li>
-          </ul>
+          <ul>Coffee</ul>
+          <ul>Tea</ul>
+          <ul>Milk</ul>
         </p1>
       </VerticalTimelineElement>
       <VerticalTimelineElement

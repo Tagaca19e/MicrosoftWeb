@@ -24,13 +24,10 @@ const Timeline = () => {
         <h2 className="vertical-timeline-element-subtitle">
           Aug 2021 - Current
         </h2>
-        <p1>
-          <ul>
-            <li>Example 1</li>
-            <li>Example 2</li>
-            <li>Example 3</li>
-          </ul>
-        </p1>
+
+        <ul>Coffee</ul>
+        <ul>Tea</ul>
+        <ul>Milk</ul>
       </VerticalTimelineElement>
       <VerticalTimelineElement
       // className="vertical-timeline-element--work"

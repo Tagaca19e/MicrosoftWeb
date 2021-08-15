@@ -26,9 +26,9 @@ const Timeline = () => {
         </h2>
         <p1>
           <ul>
-            <li>Example 1</li>
-            <li>Example 2</li>
-            <li>Example 3</li>
+            <ul>Coffee</ul>
+            <ul>Tea</ul>
+            <ul>Milk</ul>
           </ul>
         </p1>
       </VerticalTimelineElement>
