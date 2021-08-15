@@ -24,14 +24,14 @@ function App() {
       }
     >
       <div className="App  my-10 mx-auto max-w-screen-lg bg-black">
-        {/* <AnimatedCursor
+        <AnimatedCursor
           innerSize={15}
           outerSize={20}
           color="57,227,156"
           outerAlpha={0.2}
           innerScale={0.7}
           outerScale={5}
-        /> */}
+        />
 
         <div className="inner container">
           <Hero />
