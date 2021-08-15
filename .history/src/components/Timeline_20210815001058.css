@@ -26,7 +26,7 @@ ul {
     transform: rotate(5deg);
   }
 }
-/* @keyframes floatY {
+@keyframes floatY {
   0%,
   100% {
     transform: translateY(0);
@@ -35,7 +35,7 @@ ul {
   50% {
     transform: translateY(-20px);
   }
-} */
+}
 .container > .device > .frame {
   animation: floatY 3300ms ease-in-out infinite both;
 }
@@ -542,8 +542,8 @@ p1 {
 }
 /* .react-reveal > .device > .frame {
   animation: floatY 6000ms ease-in-out infinite both;
-}
-@keyframes floatY {
+} */
+/* @keyframes floatY {
   0%,
   100% {
     transform: translateY(0);

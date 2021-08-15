@@ -26,7 +26,7 @@ ul {
     transform: rotate(5deg);
   }
 }
-/* @keyframes floatY {
+@keyframes floatY {
   0%,
   100% {
     transform: translateY(0);
@@ -35,7 +35,7 @@ ul {
   50% {
     transform: translateY(-20px);
   }
-} */
+}
 .container > .device > .frame {
   animation: floatY 3300ms ease-in-out infinite both;
 }
@@ -441,7 +441,7 @@ p1 {
     -webkit-transform: translateX(0);
   }
 }
-@-moz-keyframes cd-bounce-2 {
+/* @-moz-keyframes cd-bounce-2 {
   0% {
     opacity: 0;
     -moz-transform: translateX(-100px);
@@ -455,7 +455,7 @@ p1 {
   100% {
     -moz-transform: translateX(0);
   }
-}
+} */
 @keyframes cd-bounce-2 {
   0% {
     opacity: 0;
@@ -540,7 +540,7 @@ p1 {
     transform: translateX(0);
   }
 }
-/* .react-reveal > .device > .frame {
+.react-reveal > .device > .frame {
   animation: floatY 6000ms ease-in-out infinite both;
 }
 @keyframes floatY {
@@ -552,4 +552,4 @@ p1 {
   50% {
     transform: translateY(-20px);
   }
-} */
+}
