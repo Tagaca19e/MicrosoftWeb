@@ -41,6 +41,39 @@ const Timeline = () => {
         </p1>
       </VerticalTimelineElement>
       <VerticalTimelineElement
+        className="vertical-timeline-element--work"
+        // date="2008 - 2010"
+        iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+        // icon={<WorkIcon />}
+      >
+        <h2 className="vertical-timeline-element-title">
+          Video Specialist - Cal State University, Bakersfield
+        </h2>
+        <h2 className="vertical-timeline-element-subtitle">
+          Nov 2020 - Current
+        </h2>
+        <p1>
+          <ul>
+            <li>
+              Made over 40+ informative e-learning videos in a variety of
+              subjects that enabled students a positive and immersive learning
+              experience.
+            </li>
+            <li>
+              Collaborated with other universities to create infographic videos
+              that catered to students' needs in terms of navigating the
+              school's website and portal.
+            </li>
+            <li>
+              <li>
+                Managed and created engaging social media content that increased
+                student engagement by 18%.
+              </li>
+            </li>
+          </ul>
+        </p1>
+      </VerticalTimelineElement>
+      <VerticalTimelineElement
       // className="vertical-timeline-element--work"
       // date="2010 - 2011"
       // iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
@@ -63,33 +96,6 @@ const Timeline = () => {
               Optimized front-end applications by using libraries such as
               Material UI , Bootstrap , and React Router for simple and
               quickdevelopment.
-            </li>
-          </ul>
-        </p1>
-      </VerticalTimelineElement>
-      <VerticalTimelineElement
-        className="vertical-timeline-element--work"
-        // date="2008 - 2010"
-        iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
-        // icon={<WorkIcon />}
-      >
-        <h2 className="vertical-timeline-element-title">
-          Microsoft Learn Student Ambassador - Microsoft
-        </h2>
-        <h2 className="vertical-timeline-element-subtitle">
-          Jan 2021 - Current
-        </h2>
-        <p1>
-          <ul>
-            <li>
-              Organized workshops on building applications using ReactJS ,
-              ExpressJS , MongoDB , and NodeJS for students to learn full-stack
-              development.
-            </li>
-            <li>
-              Held an event with 40+ attendees on how to use APIs ,
-              allowingstudents to fully grasp how APIs are utilized for
-              back-enddevelopment.
             </li>
           </ul>
         </p1>
