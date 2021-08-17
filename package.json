@@ -23,7 +23,7 @@
     "react-reveal": "^1.2.2",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
-    "react-text-loop": "^2.3.0",s
+    "react-text-loop": "^2.3.0",
     "react-text-transition": "^1.3.0",
     "react-tsparticles": "^1.32.0",
     "react-typing-effect": "^2.0.5",
@@ -41,7 +41,7 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
-      "predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
