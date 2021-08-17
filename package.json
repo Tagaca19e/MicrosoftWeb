@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://eidmonetagaca.com",
+  "homepage": "",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.0.0",
